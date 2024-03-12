@@ -1,0 +1,7 @@
+C:\Users\jhinp\OneDrive\바탕 화면\Assignment1\DotnetHospitalManagementSystem\obj\Debug\DotnetHospitalManagementSystem.csproj.AssemblyReference.cache
+C:\Users\jhinp\OneDrive\바탕 화면\Assignment1\DotnetHospitalManagementSystem\obj\Debug\DotnetHospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\jhinp\OneDrive\바탕 화면\Assignment1\DotnetHospitalManagementSystem\bin\Debug\DotnetHospitalManagementSystem.exe.config
+C:\Users\jhinp\OneDrive\바탕 화면\Assignment1\DotnetHospitalManagementSystem\bin\Debug\DotnetHospitalManagementSystem.exe
+C:\Users\jhinp\OneDrive\바탕 화면\Assignment1\DotnetHospitalManagementSystem\bin\Debug\DotnetHospitalManagementSystem.pdb
+C:\Users\jhinp\OneDrive\바탕 화면\Assignment1\DotnetHospitalManagementSystem\obj\Debug\DotnetHospitalManagementSystem.exe
+C:\Users\jhinp\OneDrive\바탕 화면\Assignment1\DotnetHospitalManagementSystem\obj\Debug\DotnetHospitalManagementSystem.pdb
