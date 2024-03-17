@@ -27,7 +27,7 @@ const levelQuest = {
 
         let text = '';
         text += '<figure class="npc_img">'
-        text += '<img src="../lib/images/npc.png">'
+        text += '<img src="./../lib/images/npc.png">'
         text += '</figure>'
         text += '<p>'
         text += messageState;
@@ -67,7 +67,7 @@ const levelQuestTwo = {
 
         let text = '';
         text += '<figure class="npc_img">'
-        text += '<img src="../lib/images/npc.png">'
+        text += '<img src="./../lib/images/npc.png">'
         text += '</figure>'
         text += '<p>'
         text += messageState;
